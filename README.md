@@ -1,5 +1,13 @@
 # Attendance_System
-Basic attendance system built on Python.
+Basic attendance system built on Python.<br/>
+# Project Images
+![main page](../master/Project_image/Main_Page.png)
+![main page](../master/Project_image/Attendance_List.png)
+![main page](../master/Project_image/Attendance_Summary.png)
+![main page](../master/Project_image/List_of_student.png)
+![main page](../master/Project_image/To_open_save_record.png)
+![main page](../master/Project_image/Add_student_detail.png)
+
 
 ## Installation
 Install Python 3.8. 0 in order to run this project.
@@ -18,7 +26,7 @@ Storing of the data is been achieve by-
 ## To Start
 <br/> 1.Run new_attendance.py in order to start with project.Use the command mention below.
 
-![main page](../master/Project_image/Main_Page.png)
+
 ```bash
 python new_attendance.py
 ```
