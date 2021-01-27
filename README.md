@@ -18,6 +18,8 @@ Storing of the data is been achieve by-
 ## To Start
 <br/> 1.Run new_attendance.py in order to start with project.Use the command mention below.
 
+![Project_image](Main_Page.png)
+
 ```bash
 python new_attendance.py
 ```
